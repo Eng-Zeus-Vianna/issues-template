@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## Descreva o bug
-<! -- Uma descrição clara e concisa de qual é o bug. -->
+<!-- Uma descrição clara e concisa de qual é o bug. -->
 
 ## Passos para reproduzir o bug
 <!-- Descreva abaixo passos que possam demonstrar o problema. -->
@@ -26,7 +26,7 @@ Uma descrição clara e concisa do que você esperava que acontecesse.
 -->
 
 ## Capturas de tela
-Adicione capturas de tela para ajudar a explicar seu problema e enriquecer a issue.
+<!-- Adicione capturas de tela para ajudar a explicar seu problema e enriquecer a issue. -->
 
 ## Trechos de código
 <!-- Adicione trechos de código ou capturas de tela que possam demonstrar como o recurso está sendo utilizado.
