@@ -1,28 +1,36 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Crie um issue para nos ajudar a melhorar
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Descreva o bug**
+Uma descrição clara e concisa de qual é o bug.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Passos para reproduzir o bug**
+Descreva abaixo passos que possam demonstrar o problema.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Reprodução de recursos**
+Sua aplicação está dentro do mono repo? Qual a sua aplicação?
+Existem algum recurso/url onde podemos testar o problema? 
+Existem algum recurso/url onde podemos visualizar o problema acontecer? 
+
+**Comportamento esperado**
+Uma descrição clara e concisa do que você esperava que acontecesse.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+Adicione capturas de tela para ajudar a explicar seu problema e enriquecer a issue.
 
+**Trechos de código**
+Adicione trechos de código ou capturas de tela que possam demonstrar como o recurso está sendo utilizado.
+
+```html
+  <apollo-button></apollo-button>
+```
+<!-- 
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
  - Browser [e.g. chrome, safari]
@@ -33,6 +41,7 @@ If applicable, add screenshots to help explain your problem.
  - OS: [e.g. iOS8.1]
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
+-->
 
-**Additional context**
-Add any other context about the problem here.
+**Informações adicionais**
+Adicione qualquer outro contexto sobre o problema aqui.
